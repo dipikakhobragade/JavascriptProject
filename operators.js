@@ -1,0 +1,11 @@
+console.log(`Modulus Operator %`);
+var num1 = 20;
+var num2 = 3;
+var result = num1%num2;
+console.log(`Modulus is ${result}`);
+console.log(`even no check`);
+var num1 = 20;
+var num2 = 35;
+var res = num1%2;
+var res1 = num2%2;
+console.log(`even no or not ${res}, ${res1}`);
